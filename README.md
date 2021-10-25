@@ -16,6 +16,6 @@ algorithms with SBERT Embeddings and evaluate the result
 based on the clusters of the documents.
 
 ### Developed by:
-* Rakshit Makan | B00870379
-* Bhuvaneshwari Basquarane | B00853122
-* Shakhboz Abdulazizov | B00883651# document-clustering
+* Bhuvaneshwari Basquarane 
+* Shakhboz Abdulazizov 
+* Rakshit Makan 
